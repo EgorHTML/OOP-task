@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASYNCLABAOOP", "ASYNCLABAOOP\ASYNCLABAOOP.csproj", "{8C52B4A5-45EB-4C90-BD26-E929F006D5FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppSync", "ConsoleAppSync\ConsoleAppSync.csproj", "{ECFB064C-419C-42B4-A9B0-732A11F7DA10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C52B4A5-45EB-4C90-BD26-E929F006D5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C52B4A5-45EB-4C90-BD26-E929F006D5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C52B4A5-45EB-4C90-BD26-E929F006D5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C52B4A5-45EB-4C90-BD26-E929F006D5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFB064C-419C-42B4-A9B0-732A11F7DA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFB064C-419C-42B4-A9B0-732A11F7DA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFB064C-419C-42B4-A9B0-732A11F7DA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFB064C-419C-42B4-A9B0-732A11F7DA10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27121A86-B688-42E6-957D-84E160B7E9DF}
+	EndGlobalSection
+EndGlobal
